@@ -1,1 +1,1 @@
-# practica_escritorio_bueno
+El archivo correcto es el segundo: "practicaGestionRegistrarListarBorrar"
